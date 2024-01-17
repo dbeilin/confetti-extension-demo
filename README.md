@@ -5,7 +5,7 @@ Just a Chrome extension that throws confetti on your screen when you click on it
 This project is just for educational purpose.
 
 ## Result
-![demo](docs/screenshots/Confetti-Demo.gif)
+<img src="docs/screenshots/Confetti-Demo.gif" width="800" height="600">
 
 ## How to run
 1. `npm install --save canvas-confetti`
