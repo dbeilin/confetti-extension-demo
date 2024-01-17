@@ -8,8 +8,9 @@ This project is just for educational purpose.
 <img src="docs/screenshots/Confetti-Demo.gif" width="800" height="600">
 
 ## How to run
-1. `npm install --save canvas-confetti`
-2. Load extension in Developer Mode
+1. Clone repo.
+2. `cd` into repo and run `npm install --save canvas-confetti`
+3. Load extension in Developer Mode
 
 ## Credits
 - [Confetti Icon](https://www.flaticon.com/free-icons/confetti)
