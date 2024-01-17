@@ -3,7 +3,7 @@
     "name": "Confetti Demo App",
     "version": "0.0.1",
     "description": "Throw confetti on your screen with a button click!",
-    "permissions": ["activeTab", "tabs", "scripting"],
+    "permissions": ["activeTab", "scripting"],
     "action": {
       "default_icon": {
         "128": "src/images/icon128.png"
