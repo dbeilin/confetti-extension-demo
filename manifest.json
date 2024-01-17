@@ -5,7 +5,6 @@
     "description": "Throw confetti on your screen with a button click!",
     "permissions": ["activeTab", "tabs", "scripting"],
     "action": {
-      "default_popup": "src/popup.html",
       "default_icon": {
         "128": "src/images/icon128.png"
       }
