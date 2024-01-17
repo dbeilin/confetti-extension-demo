@@ -2,6 +2,10 @@
 
 ## Purpose
 Just a Chrome extension that throws confetti on your screen when you click on it.
+This project is just for educational purpose.
+
+## Result
+![demo](docs/screenshots/Confetti-Demo.gif)
 
 ## How to run
 1. `npm install --save canvas-confetti`
