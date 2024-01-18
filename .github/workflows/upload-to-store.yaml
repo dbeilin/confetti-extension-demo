@@ -16,7 +16,7 @@ jobs:
 
       - name: zip extension
         run: |-
-          zip -r chrome-extension-${{ github.sha }}.zip
+          zip -r chrome-extension-${{ github.sha }}.zip .
 
       - name: NPM CI
         run: |-
