@@ -2,7 +2,11 @@
 
 ## Purpose
 Just a Chrome extension that throws confetti on your screen when you click on it.
-This project is just for educational purpose.
+This project is just for educational purpose :)
+
+### Automatically Upload To Chrome Store
+Check out the [workflow](https://github.com/dbeilin/confetti-extension-demo/blob/main/.github/workflows/upload-to-store.yaml) that handles the process of zipping and uploading the extension to the Chrome web store.
+The workflow is using [chrome-webstore-upload-cli](https://github.com/fregante/chrome-webstore-upload-cli) to upload the extension. It's worth checking out [this](https://github.com/fregante/chrome-webstore-upload-keys) guide to generate the necessary keys and tokens for the workflow.
 
 ## Result
 <img src="docs/screenshots/Confetti-Demo.gif" width="800" height="600">
